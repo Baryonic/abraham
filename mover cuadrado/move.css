@@ -1,0 +1,13 @@
+#d1{
+background-color:black;
+width:500px;
+height:40px;
+position:relative;
+}
+
+#d2{
+position:absolute;
+background-color:red;
+width:40px;
+height:40px;
+}
